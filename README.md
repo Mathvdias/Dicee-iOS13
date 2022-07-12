@@ -1,31 +1,22 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Simple Screen
 
-# Dicee
+Criando tela simples de dados aleatorios
 
-## Our Goal
+<br>
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+<h2 align="center">Layout 🎨</h2>
 
-## What you will create
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/74201503/178398349-e7e971b6-d75a-49c3-a28f-24c775d6e6e6.png" width="300" height="600"/>
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+</div>
+<h2 align="center">O app foi feito utilizando: 📖</h2>
+<p>
+<h2>
 
-
-## What you will learn
-
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+`XCODE`, `UIKit`.
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
 
